@@ -1,0 +1,15 @@
+{
+  "name": "guavm",
+  "description": "This box contains ubuntu 16.04 LTS 64bit customized by gua.",
+  "versions": [
+    {
+      "version": "1.0",
+      "providers":[
+        {
+          "name": "virtualbox",
+          "url": "guavm.box"
+        }
+      ]
+    }
+  ]
+}
